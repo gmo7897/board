@@ -1,0 +1,868 @@
+/* 
+  Appletland Stylesheet 
+  Color schemes for the various theme choices.
+*/
+
+/* No User */
+body.bg0 {background-color: #000000}
+
+table.menu0 {background-color: #009900;
+	width: 100%
+}
+tr.mencatbd0 {text-align: center}
+td.menu0 {font-family: arial;
+	color: #AAAAAA
+}
+
+table.cat0 {width: 100%}
+td.cat0 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 15pt;
+	color: #AAAAAA;
+	border: solid 2px #FFFFFF
+}
+
+table.board0 {width: 100%}
+td.board0 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 15pt;
+	color: #000000;
+	border: solid 2px #FFFFF
+}
+
+table.tophead0 {width: 100%}
+td.tophead0 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #AAAAAA;
+	border: solid 2px #FFFFFF
+}
+
+table.toplst0 {width: 100%}
+td.toplst0 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.messhead0 {width: 100%}
+td.messhead0 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.messlst0 {width: 100%}
+td.messlst0 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.note0 {background-color: #FFFFFF;
+	width: 100%
+}
+td.note0 {font-family: arial;
+	color: #000000
+}
+
+table.if0 {width: 100%}
+td.i1f0 {font-family: arial;
+	background-color: #666600;
+	border: solid 1px #FFFFFF
+}
+td.i2f0 {font-family: arial;
+	background-color: #663300;
+	border: solid 1px #FFFFFF
+}
+
+a.mencat0 {color: #AAAAAA}
+a.board0 {color: #000000}
+a.note0 {color: #000000}
+a.bg0 {font-family: arial;
+	color: #FFFFFF
+}
+pre.big0 {font-family: arial;
+	font-size: 24pt;
+	color: #FFFFFF
+}
+pre.small0 {font-family: arial;
+	font-size: 12pt;
+	color: #FFFFFF
+}
+
+
+/* Default Theme */
+body.bg1 {background-color: #00FF00}
+
+table.menu1 {background-color: #009900;
+	width: 100%
+}
+tr.mencatbd1 {text-align: center}
+td.menu1 {font-family: arial;
+	color: #AAAAAA
+}
+
+table.cat1 {width: 100%}
+td.cat1 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 15pt;
+	color: #AAAAAA;
+	border: solid 2px #FFFFFF
+}
+
+table.board1 {width: 100%}
+td.board1 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 15pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.tophead1 {width: 100%}
+td.tophead1 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #AAAAAA;
+	border: solid 2px #FFFFFF
+}
+
+table.toplst1 {width: 100%}
+td.toplst1 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.messhead1 {width: 100%}
+td.messhead1 {background-color: #0000FF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.messlst1 {width: 100%}
+td.messlst1 {background-color: #00AAFF;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.note1 {background-color: #FFFFFF;
+	width: 100%
+}
+td.note1 {font-family: arial;
+	color: #000000
+}
+
+table.if1 {width: 100%}
+td.i1f1 {font-family: arial;
+	background-color: #666600;
+	border: solid 1px #FFFFFF;
+	color: #999999
+}
+td.i2f1 {font-family: arial;
+	background-color: #663300;
+	border: solid 1px #FFFFFF;
+	color: #999999
+}
+
+a.mencat1 {color: #AAAAAA}
+a.board1 {color: #000000}
+a.note1 {color: #000000}
+a.bg1 {font-family: arial;
+	color: #000000
+}
+pre.big1 {font-family: arial;
+	font-size: 24pt;
+	color: #000000
+}
+pre.small1 {font-family: arial;
+	font-size: 12pt;
+	color: #000000
+}
+
+
+/* Yellow Theme */
+body.bg2 {background-color: #000000}
+
+table.menu2 {background-color: #FFFF00;
+	width: 100%
+}
+tr.mencatbd2 {text-align: center}
+td.menu2 {font-family: arial;
+	color: #E88704
+}
+
+table.cat2 {width: 100%}
+td.cat2 {background-color: #DBC528;
+	font-family: arial;
+	font-size: 15pt;
+	color: #E88704;
+	border: solid 2px #000000
+}
+
+table.board2 {width: 100%}
+td.board2 {background-color: #F0FE8D;
+	font-family: arial;
+	font-size: 15pt;
+	color: #000000;
+	border: solid 2px #000000
+}
+
+table.tophead2 {width: 100%}
+td.tophead2 {background-color: #DBC528;
+	font-family: arial;
+	font-size: 12pt;
+	color: #E88704;
+	border: solid 2px #000000
+}
+
+table.toplst2 {width: 100%}
+td.toplst2 {background-color: #F0FE8D;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #000000
+}
+
+table.messhead2 {width: 100%}
+td.messhead2 {background-color: #DBC528;
+	font-family: arial;
+	font-size: 12pt;
+	color: #E88704;
+	border: solid 2px #000000
+}
+
+table.messlst2 {width: 100%}
+td.messlst2 {background-color: #F0FE8D;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #000000
+}
+
+table.note2 {background-color: #26EAF4;
+	width: 100%
+}
+td.note2 {font-family: arial;
+	color: #000000
+}
+
+table.if2 {width: 100%}
+td.i1f2 {font-family: arial;
+	background-color: #BBBB00;
+	border: solid 1px #000000;
+	color: #000000
+}
+td.i2f2 {font-family: arial;
+	background-color: #FF8800;
+	border: solid 1px #000000;
+	color: #000000
+}
+
+a.mencat2 {color: #E88704}
+a.board2 {color: #000000}
+a.note2 {color: #000000}
+a.bg2 {font-family: arial;
+	color: #FFFF00
+}
+pre.big2 {font-family: arial;
+	font-size: 24pt;
+	color: #FF9900
+}
+pre.small2 {font-family: arial;
+	font-size: 12pt;
+	color: #FF9900
+}
+
+
+/* Blue Theme */
+body.bg3 {background-color: #FFFFFF}
+
+table.menu3 {background-color: #0000FF;
+	width: 100%
+}
+tr.mencatbd3 {text-align: center}
+td.menu3 {font-family: arial;
+	color: #F9FFCA
+}
+
+table.cat3 {width: 100%}
+td.cat3 {background-color: #26A4EE;
+	font-family: arial;
+	font-size: 15pt;
+	color: #F9FFCA;
+	border: solid 2px #FFFFFF
+}
+
+table.board3 {width: 100%}
+td.board3 {background-color: #33D5E1;
+	font-family: arial;
+	font-size: 15pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.tophead3 {width: 100%}
+td.tophead3 {background-color: #26A4EE;
+	font-family: arial;
+	font-size: 12pt;
+	color: #F9FFCA;
+	border: solid 2px #FFFFFF
+}
+
+table.toplst3 {width: 100%}
+td.toplst3 {background-color: #33D5E1;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.messhead3 {width: 100%}
+td.messhead3 {background-color: #26A4EE;
+	font-family: arial;
+	font-size: 12pt;
+	color: #F9FFCA;
+	border: solid 2px #FFFFFF
+}
+
+table.messlst3 {width: 100%}
+td.messlst3 {background-color: #33D5E1;
+	font-family: arial;
+	font-size: 12pt;
+	color: #000000;
+	border: solid 2px #FFFFFF
+}
+
+table.note3 {background-color: #FF0000;
+	width: 100%
+}
+td.note3 {font-family: arial;
+	color: #000000
+}
+
+table.if3 {width: 100%}
+td.i1f3 {font-family: arial;
+	background-color: #4030CF;
+	border: solid 1px #FFFFFF;
+	color: #FFFFFF
+}
+td.i2f3 {font-family: arial;
+	background-color: #30BD2D;
+	border: solid 1px #FFFFFF;
+	color: #FFFFFF
+}
+
+a.mencat3 {color: #F9FFCA}
+a.board3 {color: #000000}
+a.note3 {color: #000000}
+a.bg3 {font-family: arial;
+	color: #000000
+}
+pre.big3 {font-family: arial;
+	font-size: 24pt;
+	color: #000000
+}
+pre.small3 {font-family: arial;
+	font-size: 12pt;
+	color: #000000
+}
+
+
+/* Black and White */
+body.bg4 {background-color: #FFFFFF}
+
+table.menu4 {background-color: #000000;
+	width: 100%
+}
+tr.mencatbd4 {text-align: center}
+td.menu4 {font-family: arial;
+	color: #FFFFFF
+}
+
+table.cat4 {width: 100%}
+td.cat4 {background-color: #000000;
+	font-family: arial;
+	font-size: 15pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.board4 {width: 100%}
+td.board4 {background-color: #000000;
+	font-family: arial;
+	font-size: 15pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.tophead4 {width: 100%}
+td.tophead4 {background-color: #000000;
+	font-family: arial;
+	font-size: 12pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.toplst4 {width: 100%}
+td.toplst4 {background-color: #000000;
+	font-family: arial;
+	font-size: 12pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.messhead4 {width: 100%}
+td.messhead4 {background-color: #000000;
+	font-family: arial;
+	font-size: 12pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.messlst4 {width: 100%}
+td.messlst4 {background-color: #000000;
+	font-family: arial;
+	font-size: 12pt;
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF
+}
+
+table.note4 {background-color: #00FF00;
+	width: 100%
+}
+td.note4 {font-family: arial;
+	color: #000000
+}
+
+table.if4 {width: 100%}
+td.i1f4 {font-family: arial;
+	background-color: #000000;
+	border: solid 1px #FFFFFF;
+	color: #FFFFFF
+}
+td.i2f4 {font-family: arial;
+	background-color: #FFFFFF;
+	border: solid 1px #FFFFFF;
+	color: #000000
+}
+
+a.mencat4 {color: #FFFFFF}
+a.board4 {color: #FFFFFF}
+a.note4 {color: #000000}
+a.bg4 {font-family: arial;
+	color: #000000
+}
+pre.big4 {font-family: arial;
+	font-size: 24pt;
+	color: #000000
+}
+pre.small4 {font-family: arial;
+	font-size: 12pt;
+	color: #000000
+}
+
+
+/* GameFAQs Classic (Stevewins123) */
+body.bg5 {background-color: #FFFFFF}
+ 
+/* Top bar */ 
+table.menu5 {background-color: #0000ff; 
+	width: 100% 
+} 
+tr.mencatbd5 {text-align: center} 
+td.menu5 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* Board Name, Topics, Messages, Date*/ 
+table.cat5 {width: 100%} 
+td.cat5 {background-color: #8080ff; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #FFFFFF; 
+	border: solid 1px #FFFFFF 
+} 
+
+/*Forums*/ 
+table.board5 {width: 100%} 
+td.board5 {background-color: #d0d0ff; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #000000; 
+	border: solid 1px #FFFFFF 
+} 
+
+/*Topic Header*/ 
+table.tophead5 {width: 100%} 
+td.tophead5 {background-color: #8080ff; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF; 
+	border: solid 1px #FFFFFF 
+} 
+
+/*Topic List*/ 
+table.toplst5 {width: 100%} 
+td.toplst5 {background-color: #d0d0ff; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #000000; 
+	border: solid 1px #FFFFFF 
+} 
+
+/*Message Header*/ 
+table.messhead5 {width: 100%} 
+td.messhead5 {background-color: #8080ff; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF; 
+	border: solid 1px #FFFFFF 
+} 
+
+/*Message List*/ 
+table.messlst5 {width: 100%} 
+td.messlst5 {background-color: #d0d0ff; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #000000; 
+	border: solid 1px #FFFFFF 
+} 
+table.note5 {background-color: #00FF00; 
+	width: 100% 
+} 
+td.note5 {font-family: arial; 
+	color: #000000 
+} 
+
+/* User Information Page */ 
+table.if5 {width: 100%} 
+td.i1f5 {font-family: arial; 
+	background-color: #8080ff; 
+	border: solid 1px #FFFFFF; 
+	color: #FFFFFF 
+} 
+td.i2f5 {font-family: arial; 
+	background-color: #FFFFFF; 
+	border: solid 1px #FFFFFF; 
+	color: #000000 
+} 
+
+/* Stevewins, Logout, FAQ, etc*/ 
+a.mencat5 {color: #FFFFFF} 
+a.board5 {color: #000000} 
+a.note5 {color: #000000} 
+a.bg5 {font-family: arial; 
+	color: #000000 
+} 
+pre.big5 {font-family: arial; 
+	font-size: 24pt; 
+	color: #000000 
+} 
+table.small5 {width: 100%} 
+pre.small5 {font-family: arial; 
+	font-size: 13pt; 
+	color: #000000 
+}
+
+
+/* Red and Turquoise Ocelot529 and Stevewins123 */
+body.bg6 {background-color: #FFFFFF}
+ 
+/* Top bar */ 
+table.menu6 {background-color: #BB0000; 
+	width: 100% 
+} 
+tr.mencatbd6 {text-align: center} 
+td.menu6 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* Board Name, Topics, Messages, Date */ 
+table.cat6 {width: 100%} 
+td.cat6 {background-color: #085F56; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #FFFFFF 
+} 
+
+/* Forums */ 
+table.board6 {width: 100%} 
+td.board6 {background-color: #650203; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic Header */ 
+table.tophead6 {width: 100%} 
+td.tophead6 {background-color: #085F56; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic List */ 
+table.toplst6 {width: 100%} 
+td.toplst6 {background-color: #650203; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message Header */ 
+table.messhead6 {width: 100%} 
+td.messhead6 {background-color: #085F56; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message List */ 
+table.messlst6 {width: 100%} 
+td.messlst6 {background-color: #650203; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+table.note6 {background-color: #00FF00; 
+	width: 100% 
+} 
+td.note6 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* User Information Page */ 
+table.if6 {width: 100%} 
+td.i1f6 {font-family: arial; 
+	background-color: #085F56; 
+	color: #FFFFFF 
+} 
+td.i2f6 {font-family: arial; 
+	background-color: #650203; 
+	color: #FFFFFF 
+} 
+
+/* Stevewins, Logout, FAQ, etc*/ 
+a.mencat6 {color: #FFFFFF} 
+a.board6 {color: #FFFFFF} 
+a.note6 {color: #FFFFFF} 
+a.bg6 {font-family: arial; 
+	color: #BB0000 
+} 
+pre.big6 {font-family: Calibri; 
+	font-size: 24pt; 
+	font-weight: bold; 
+	color: #BB0000 
+} 
+table.small6 {width: 100%} 
+pre.small6 {background-color: #FFFFFF; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #BB0000 
+}
+
+
+/* Forest Green by Steve */ 
+body.bg7 {background-color: #FFFFFF}
+
+/* Top bar */ 
+table.menu7 {background-color: #74943D; 
+	width: 100% 
+} 
+tr.mencatbd7 {text-align: center} 
+td.menu7 {font-family: arial; 
+	color: #FFF 
+} 
+
+/* Board Name, Topics, Messages, Date */ 
+table.cat7 {width: 100%} 
+td.cat7 {background-color: #189825; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #FFFFFF 
+} 
+
+/* Forums */ 
+table.board7 {width: 100%} 
+td.board7 {background-color: #0E4B00; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic Header */ 
+table.tophead7 {width: 100%} 
+td.tophead7 {background-color: #189825; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic List */ 
+table.toplst7 {width: 100%} 
+td.toplst7 {background-color: #0E4B00; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message Header */ 
+table.messhead7 {width: 100%} 
+td.messhead7 {background-color: #189825; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message List */ 
+table.messlst7 {width: 100%} 
+td.messlst7 {background-color: #0E4B00; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+table.note7 {background-color: #00FF00; 
+	width: 100% 
+} 
+td.note7 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* User Information Page */ 
+table.if7 {width: 100%} 
+td.i1f7 {font-family: arial; 
+	background-color: #189825; 
+	color: #FFFFFF 
+} 
+td.i2f7 {font-family: arial; 
+	background-color: #0E4B00; 
+	color: #FFFFFF 
+} 
+
+/* Stevewins, Logout, FAQ, etc*/ 
+a.mencat7 {color: #FFFFFF} 
+a.board7 {color: #FFFFFF} 
+a.note7 {color: #FFFFFF} 
+a.bg7 {font-family: arial; 
+	font-weight:bold; 
+	color: #0E4B00 
+} 
+pre.big7 {font-family: Calibri; 
+	font-size: 24pt; 
+	font-weight: bold; 
+	color: #0E4B00 
+} 
+table.small7 {width: 100%} 
+pre.small7 {background-color: #FFFFFF; 
+	font-family: arial; 
+	font-size: 15pt; 
+	color: #0E4B00 
+} 
+
+
+
+/* GFH Theme */ 
+body.bg8 {background-color: #FFFFFF}
+
+/* Top bar */ 
+table.menu8 {background-color: #000000; 
+	width: 100% 
+} 
+tr.mencatbd8 {text-align: center} 
+td.menu8 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* Board Name, Topics, Messages, Date */ 
+table.cat8 {width: 100%} 
+td.cat8 {background-color: #666666; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Forums */ 
+table.board8 {width: 100%} 
+td.board8 {background-color: #666666; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic Header */ 
+table.tophead8 {width: 100%} 
+td.tophead8 {background-color: #666666; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Topic List */ 
+table.toplst8 {width: 100%} 
+td.toplst8 {background-color: #666666; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message Header */ 
+table.messhead8 {width: 100%} 
+td.messhead8 {background-color: #333333; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* Message List */ 
+table.messlst8 {width: 100%} 
+td.messlst8 {background-color: #333333; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #FFFFFF 
+} 
+
+/* System Note */
+table.note8 {background-color: #FF0000; 
+	width: 100% 
+} 
+td.note8 {font-family: arial; 
+	color: #FFFFFF 
+} 
+
+/* User Information Page */ 
+table.if8 {width: 100%} 
+td.i1f8 {font-family: arial; 
+	background-color: #333333; 
+	color: #FFFFFF 
+} 
+td.i2f8 {font-family: arial; 
+	background-color: #666666; 
+	color: #FFFFFF 
+} 
+
+/* Stevewins, Logout, FAQ, etc*/ 
+a.mencat8 {color: #FFFFFF} 
+a.board8 {color: #FFFFFF} 
+a.note8 {color: #FFFFFF} 
+a.bg8 {font-family: arial;  
+	color: #000000 
+} 
+pre.big8 {font-family: arial; 
+	font-size: 18pt;  
+	color: #000000 
+} 
+table.small8 {width: 100%} 
+pre.small8 {background-color: #FFFFFF; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #000000 
+}

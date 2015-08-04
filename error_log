@@ -1,0 +1,3 @@
+[31-Jul-2015 20:58:22 America/Chicago] PHP Fatal error:  Call to a member function getUserLevel() on a non-object in /home/gmocom/public_html/boards/codefiles/inactaction_code.php on line 46
+[31-Jul-2015 21:19:47 America/Chicago] PHP Fatal error:  Call to a member function getUserName() on a non-object in /home/gmocom/public_html/boards/moderate.php on line 26
+[31-Jul-2015 21:38:51 America/Chicago] PHP Fatal error:  Call to a member function getUserName() on a non-object in /home/gmocom/public_html/boards/moderate.php on line 26

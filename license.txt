@@ -1,0 +1,2 @@
+This package is licensed under the GPLv3 License. A copy of this license can be found
+at http://www.gnu.org/licenses/gpl.html.
