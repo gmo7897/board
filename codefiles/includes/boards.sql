@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `gmocom_apple_boards`
+-- Database: `boards`
 --
 CREATE DATABASE IF NOT EXISTS `boards` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `boards`;
