@@ -142,41 +142,7 @@ CREATE TABLE IF NOT EXISTS `messages` (
   PRIMARY KEY (`messageid`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=31 ;
 
---
--- Dumping data for table `messages`
---
 
-INSERT INTO `messages` (`messageid`, `topicnum`, `boardnum`, `messageby`, `messagestuff`, `messdate`) VALUES
-(1, 1, 1, 'gmo', 'Maybe. I dunno.&#13;<br />&#13;<br />I really need to work through a lot of the code of this site. &#62;&#95;&#62;', 1438228332),
-(2, 2, 2, 'gmo', 'There are a lot of goofy things in the code here. &#13;<br />&#13;<br />If something isn&#39;t working for you. Let me know.', 1438394529),
-(3, 2, 2, 'Mith', 'Indeed ', 1438394921),
-(4, 3, 2, 'Mith', '&#94;&#95;&#94;b&#13;<br />&#13;<br />Edit &#45; Error&#58; messages must have at least 5 non&#45;whitespace characters.', 1438395170),
-(5, 4, 1, 'gmo', 'Just FYI&#44; there are a lot of issues with the site as it stands right now. The original code that I have is written in PHP4&#44; and a lot has changed in PHP since then. There are several things that newer versions of PHP do better&#44; and there are also things from PHP4 that no longer exist in PHP5 and beyond.&#13;<br />&#13;<br />Also&#44; prior to PHP4&#44; this site was written in ASP&#44; and some of that legacy code is still hanging around &#45; to include links leading to .aspx pages.&#13;<br />&#13;<br />I&#39;m currently working to bring the code to a more up&#45;to&#45;date standard&#44; but it is taking some time. There are about 70 files total for the site&#44; and I&#39;m having to go through each file pretty much line by line to make sure things are up&#45;to&#45;date &#45; especially any database connection&#44; which is where most of the site&#39;s deprecated features are coming into play &#40;unfortunately&#41;. &#13;<br />&#13;<br />If there is something that&#39;s truly breaking the site&#44; shoot me a PM on GameFAQs&#44; and I will try to fix that. Otherwise&#44; feel free to just carry on as normal&#44; and soon enough&#44; I will have a lot of the site working smoothly.', 1438395313),
-(6, 4, 1, 'madfoot', 'u suck', 1438395363),
-(7, 3, 2, 'gmo', 'yeah... there&#39;s a lot here that needs fixed. &#61;P', 1438395391),
-(8, 5, 2, 'CumshotDragon', '&#173;make me admin &#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438395493),
-(9, 4, 1, 'CumshotDragon', '&#173;gmo is lame it is his fault &#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438395528),
-(10, 3, 2, 'CumshotDragon', '&#173;hi mithril&#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438395549),
-(11, 6, 2, 'madfoot', '&#173;&#13;<br />&#45;&#45;&#45;&#13;<br />post memes', 1438395651),
-(12, 6, 2, 'CumshotDragon', '&#173;you suck &#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438395688),
-(13, 3, 2, 'gmo', 'What&#39;s up&#63;', 1438396195),
-(14, 3, 2, 'gmo', 'Fun fact &#45; as of right now&#44; all of the mod and admin tools are broken. I cannot even activate accounts without going directly into the database and adjusting user levels. I can&#39;t view user profiles. I cannot view marked messages. Nothing...&#13;<br />', 1438396356),
-(15, 3, 2, 'CumshotDragon', 'cool&#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438396421),
-(16, 3, 2, 'Naya', 'That&#39;s the best kind of code though. Lost Facts wasn&#39;t nightmarish enough&#44; so now we have something &#42;much better&#33;&#42;', 1438397615),
-(17, 6, 2, 'Naya', 'what am madfoot drinking todya', 1438397808),
-(18, 5, 2, 'CumshotDragon', '&#173;bump&#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438404083),
-(19, 5, 2, 'Naya', '&#42;support&#42;&#13;<br />&#13;<br />In the meantime&#44; you can feel like an admin by viewing the page on a twisted nematic screen and then rocking your head back and forth. The psychedelic colours will make everything <i>soooooooooo fabulous&#33;&#33;</i>', 1438405522),
-(20, 7, 2, 'Mith', 'Turbo&#45;cunts', 1438432353),
-(21, 3, 2, 'Mith', 'Ocelot&#44; my son ', 1438432396),
-(22, 3, 2, 'CumshotDragon', '&#173;hey fellaheens &#13;<br />&#45;&#45;&#45;&#13;<br />A is for Allah&#44; nothing but Allah', 1438440437),
-(23, 3, 2, 'OTACON120', 'This is going to be fun to get used to until things are brought up to 2015. &#62;&#95;&#62;', 1438497179),
-(24, 3, 2, 'TheFifthPerson', 'Personally I think this is perfect. Who needs fancy features&#63;', 1438535143),
-(25, 4, 1, 'yoshifan1', 'The first thing we need after everything is fixed is quick post.', 1438537506),
-(26, 8, 2, 'Neoconkers', 'hi&#13;<br />&#13;<br />&#13;<br />hi', 1438537674),
-(27, 3, 2, 'yoshifan1', '&#173;I said the code was bad.  My PHP learning process was a slow one&#44; and didn&#39;t help that the code was first written in JSP 4.2&#44; then sloppily translated to ASP.NET 2.0&#44; then hastily translated to PHP4.&#13;<br />&#45;&#45;&#45;&#13;<br />This is my signature&#13;<br />http&#58;&#47;&#47;www.crabdom.com&#47;forums &#45; a place that exists', 1438537841),
-(28, 8, 2, 'yoshifan1', '&#173;Hello&#13;<br />&#45;&#45;&#45;&#13;<br />This is my signature&#13;<br />http&#58;&#47;&#47;www.crabdom.com&#47;forums &#45; a place that exists', 1438537884),
-(29, 3, 2, 'gmo', 'heh... I never knew this was written in jsp first. At least there&#39;s none of that hanging around that I can tell. ', 1438547706),
-(30, 7, 2, 'TheFifthPerson', 'Cuntbox', 1438558575);
 
 -- --------------------------------------------------------
 
