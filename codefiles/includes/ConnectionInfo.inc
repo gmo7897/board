@@ -2,9 +2,9 @@
 	function createConnection()
 	{
 		$host = "localhost";
-		$database = "gmocom_apple_boards";
-		$username = "gmocom";
-		$password = "354oih2XWk";
+		$database = "boards";
+		$username = "root";
+		$password = "";
 
 		mysql_connect($host, $username, $password);
 		mysql_select_db($database);
